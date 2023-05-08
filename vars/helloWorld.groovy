@@ -1,3 +1,4 @@
 def call(String name) {
-  echo "Hello --- ${name}!"
+  echo "Hello Library${name}!"
+  docker.image(name)
 }
