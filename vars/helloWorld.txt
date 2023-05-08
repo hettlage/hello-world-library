@@ -1,1 +1,1 @@
-<div>This is a <em>dummy</em> help text for the <code>helloWorld</code> function.</div>
+<div>This is a <em>dummy</em> help text for the <code>helloWorld</code> function.</div> **IT WORKS!**
