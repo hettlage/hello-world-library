@@ -1,1 +1,1 @@
-This is a <em>dummy</em> help text or the <code>helloWorld</code> function.
+This is a <em>dummy</em> help text for the <code>helloWorld</code> function.
