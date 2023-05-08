@@ -1,4 +1,5 @@
 def call(String name) {
   echo "Hello Library${name}!"
-  docker.image(name)
+  docker.withRegistry("${DOCKER_REGISTRY}", "docker-registry-credentials") {
+    dockerImage.push()
 }
